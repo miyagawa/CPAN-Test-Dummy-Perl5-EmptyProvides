@@ -1,0 +1,19 @@
+The following report has been written by the PAUSE namespace indexer.
+Please contact modules@perl.org if there are any open questions.
+
+  User: MIYAGAWA ()
+  Distribution file: CPAN-Test-Dummy-Perl5-EmptyProvides-0.01.tar.gz
+  Number of files: 14
+  *.pm files: 1
+  README: CPAN-Test-Dummy-Perl5-EmptyProvides-0.01/README
+  META-File: CPAN-Test-Dummy-Perl5-EmptyProvides-0.01/META.json
+  META-Parser: Parse::CPAN::Meta 1.4404
+  META-driven index: yes
+  Timestamp of file: Sat Feb 14 16:05:01 2015 UTC
+  Time of this run: Sat Feb 14 16:06:32 2015 UTC
+
+This distribution name can only be used by users with permission for the
+package CPAN::Test::Dummy::Perl5::EmptyProvides, which you do not have.
+
+
+__END__
