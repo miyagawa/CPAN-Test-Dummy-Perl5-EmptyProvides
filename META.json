@@ -48,6 +48,17 @@
    },
    "provides" : {},
    "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/miyagawa/CPAN-Test-Dummy-Perl5-EmptyProvides/issues"
+      },
+      "homepage" : "https://github.com/miyagawa/CPAN-Test-Dummy-Perl5-EmptyProvides",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/miyagawa/CPAN-Test-Dummy-Perl5-EmptyProvides.git",
+         "web" : "https://github.com/miyagawa/CPAN-Test-Dummy-Perl5-EmptyProvides"
+      }
+   },
    "version" : "0.01"
 }
 
