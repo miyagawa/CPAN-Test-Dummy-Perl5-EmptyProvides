@@ -1,14 +1,12 @@
 # NAME
 
-CPAN::Test::Dummy::Perl5::EmptyProvides - Blah blah blah
-
-# SYNOPSIS
-
-    use CPAN::Test::Dummy::Perl5::EmptyProvides;
+CPAN::Test::Dummy::Perl5::EmptyProvides - Distribution with empty hash provides metadata
 
 # DESCRIPTION
 
-CPAN::Test::Dummy::Perl5::EmptyProvides is
+This distribution has a valid, empty `provides` metadata hash in its
+META.json and META.yml to test how PAUSE, CPAN clients and search
+sites handle that.
 
 # AUTHOR
 
@@ -24,3 +22,5 @@ This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
 
 # SEE ALSO
+
+[CPAN::Test::Dummy::Perl5::DifferentProvides](https://metacpan.org/pod/CPAN::Test::Dummy::Perl5::DifferentProvides)

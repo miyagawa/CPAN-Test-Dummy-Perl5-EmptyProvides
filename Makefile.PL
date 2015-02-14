@@ -10,7 +10,7 @@ use ExtUtils::MakeMaker;
 
 
 my %WriteMakefileArgs = (
-  "ABSTRACT" => "Blah blah blah",
+  "ABSTRACT" => "Distribution with empty hash provides metadata",
   "AUTHOR" => "Tatsuhiko Miyagawa <miyagawa\@bulknews.net>",
   "CONFIGURE_REQUIRES" => {
     "ExtUtils::MakeMaker" => 0

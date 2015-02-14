@@ -11,15 +11,13 @@ __END__
 
 =head1 NAME
 
-CPAN::Test::Dummy::Perl5::EmptyProvides - Blah blah blah
-
-=head1 SYNOPSIS
-
-  use CPAN::Test::Dummy::Perl5::EmptyProvides;
+CPAN::Test::Dummy::Perl5::EmptyProvides - Distribution with empty hash provides metadata
 
 =head1 DESCRIPTION
 
-CPAN::Test::Dummy::Perl5::EmptyProvides is
+This distribution has a valid, empty C<provides> metadata hash in its
+META.json and META.yml to test how PAUSE, CPAN clients and search
+sites handle that.
 
 =head1 AUTHOR
 
@@ -35,5 +33,7 @@ This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
 
 =head1 SEE ALSO
+
+L<CPAN::Test::Dummy::Perl5::DifferentProvides>
 
 =cut

@@ -1,5 +1,5 @@
 {
-   "abstract" : "Blah blah blah",
+   "abstract" : "Distribution with empty hash provides metadata",
    "author" : [
       "Tatsuhiko Miyagawa <miyagawa@bulknews.net>"
    ],
